@@ -9,7 +9,7 @@ This is a simple spell corrector implemented in Python using the tkinter library
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/1234SWatiPant/spell-corrector.git
+   git clone https://github.com/1234SWatiPant/spellcorrector.git
    
 
 2. Install dependencies:
