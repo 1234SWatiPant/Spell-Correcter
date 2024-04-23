@@ -1,3 +1,5 @@
+![spell](https://github.com/1234SWatiPant/Spell-Correcter/assets/125669642/130cfb40-6887-41e0-883a-1effe63e867a)
+
 This is a simple spell corrector implemented in Python using the tkinter library for the GUI and the TextBlob library for spell checking.
 
 ## Features
